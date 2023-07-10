@@ -15,7 +15,7 @@ This is Foundry FundMe project.
 ## Quickstart
 
 ```
-git clone https://github.com/BBashh/Foundry-Fund-Me.git
+git clone https://github.com/BBashh/Foundry-FundMe.git
 cd foundry-fund-me-f23
 forge build
 ```
