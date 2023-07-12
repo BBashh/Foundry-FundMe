@@ -16,7 +16,7 @@ This is Foundry FundMe project.
 
 ```
 git clone https://github.com/BBashh/Foundry-FundMe.git
-cd foundry-fund-me-f23
+cd Foundry-FundMe
 forge build
 ```
 
