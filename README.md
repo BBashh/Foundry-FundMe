@@ -1,6 +1,6 @@
 # Foundry Fund Me
 
-This is Foundry FundMe project.
+This is a Foundry FundMe project.
 
 # Getting Started
 
@@ -101,7 +101,7 @@ cast send <FUNDME_CONTRACT_ADDRESS> "withdraw()"  --private-key <PRIVATE_KEY>
 
 ## Estimate gas
 
-You can estimate how much gas things cost by running:
+To check how much gas is being used, run the following code snippet:
 
 ```
 forge snapshot
